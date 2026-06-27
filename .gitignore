@@ -1,0 +1,30 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Configurações locais e credenciais
+.env
+*.key
+*.pem
+
+# Dados privados não usados neste projeto
+data/raw/
+data/private/
